@@ -2,7 +2,7 @@
 $(document).ready(function()
 {
 	// Initial array of topics
-	var topics = ['yes', 'win', 'just do it', 'done it', 'lol'];
+	var topics = ['yes', 'win', 'just do it', 'done it', 'lol', 'feel good'];
 
 	// Generic function for displaying topic data 
 	function renderButtons()
